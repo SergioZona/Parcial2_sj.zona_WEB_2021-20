@@ -1,0 +1,5 @@
+# front
+smarthome-app/node_modules
+
+# React build
+smarthome-app/build/
