@@ -1,0 +1,39 @@
+img {
+    height: 18%;
+    width: 18%;
+    padding: 0.8em;
+}
+
+.card {
+    height: auto;
+    width: auto;
+}
+
+.titulo-tarjeta{
+    font-style: bold;
+}
+
+.titulo-espacios{
+    margin-top: 2em;
+    padding-left: 3em;
+}
+
+.titulo-estadisticas{
+    margin-top: 1em;
+}
+
+.titulo-cuartos{
+    margin-bottom: 1.5em;
+}
+
+.container-espacios {
+    margin-top: 1em;
+    margin-right: 3em;
+    margin-left: 3em;
+}
+
+.container-cuartos {
+    margin-top: 2em;
+    margin-right: 3em;
+    margin-left: 3em;
+}
